@@ -1,7 +1,7 @@
 # Test
 
 ## INTRODUCTION
-This API contains endpoints populate user data, as well as endpoint which tell you if a number is spam, or allow you to find a person’s name by searching for their phone number 
+This API contains endpoints populate user data, as well as endpoint which tell you if a number is spam, add a number to spam database and allow users to find a person’s name by searching for their phone number in spam database
 
 
 # How to run the application
